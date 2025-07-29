@@ -56,7 +56,7 @@ export const Header = () => {
               </a>
             ))}
           </div>
-          <a href="/resume.pdf" target="_blank" className="bg-blue-600 text-white font-semibold px-4 py-2 rounded-md hover:bg-blue-700 transition-colors text-sm">
+          <a href="/CV_Muhammad Rayhan Denel.pdf" target="_blank" className="bg-blue-600 text-white font-semibold px-4 py-2 rounded-md hover:bg-blue-700 transition-colors text-sm">
             View Resume
           </a>
           {/* Theme switcher for desktop */}
