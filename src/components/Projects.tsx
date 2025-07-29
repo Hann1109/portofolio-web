@@ -7,7 +7,7 @@ const projects = [
         summary: "A web platform for visualizing lecturer competency mapping in Indonesia.",
         role: "Product Manager",
         tech: ["Java", "Spring Boot", "Tailwind CSS"],
-        image: "/BahariApps.PNG", // Make sure this path is correct
+        image: "/BahariApps.png", // Make sure this path is correct
         demoLink: "https://bahari.airdiansyah.my.id/",
         codeLink: "#",
     },
@@ -16,7 +16,7 @@ const projects = [
         summary: "An internal university system for student program applications.",
         role: "Developer",
         tech: ["Web Development", "UI/UX"],
-        image: "/Wiradha.PNG", // Make sure this path is correct
+        image: "/Wiradha.png", // Make sure this path is correct
         demoLink: "#",
         codeLink: "#",
     },
@@ -25,7 +25,7 @@ const projects = [
         summary: "A concept for a mass communication app for natural disaster info.",
         role: "UI/UX Designer",
         tech: ["Figma", "HCI"],
-        image: "/PerBan.PNG", // Make sure this path is correct
+        image: "/PerBan.png", // Make sure this path is correct
         demoLink: "http://ristek.link/perbanprototype",
         codeLink: "#",
     }

@@ -13,7 +13,7 @@ export const AboutMe = () => {
             <div className="relative rounded-xl p-1 bg-gradient-to-tr from-blue-500 to-black-500 shadow-lg">
               <div className="bg-white dark:bg-gray-900 rounded-[10px] p-1">
                  <Image
-                  src="/Profile.JPG" 
+                  src="/Profile.jpg" 
                   alt="Muhammad Rayhan Denel"
                   width={412}
                   height={585}
