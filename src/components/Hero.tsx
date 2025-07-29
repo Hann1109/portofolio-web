@@ -6,7 +6,7 @@ export const Hero = () => {
       {/* This div will handle the animation */}
       <div className="container mx-auto px-6 animate-fade-in">
         <h1 className="text-4xl md:text-6xl font-bold max-w-4xl mx-auto text-gray-900 dark:text-white">
-          Hi, I'm{' '}
+          Hi, I&apos;m{' '}
           {/* This span creates the gradient effect on your name */}
           <span className="bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">
             Muhammad Rayhan Denel
