@@ -1,4 +1,4 @@
-import { MdWork, MdSchool } from 'react-icons/md';
+import { MdWork } from 'react-icons/md';
 
 export const Experience = () => {
   const experiences = [

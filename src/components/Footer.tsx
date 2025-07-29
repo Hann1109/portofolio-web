@@ -4,9 +4,9 @@ export const Footer = () => {
   return (
     <footer id="contact" className="py-24 bg-white dark:bg-gray-900 text-center">
       <div className="container mx-auto px-6">
-        <h2 className="font-display text-3xl font-bold">Let's Build Something Together</h2>
+        <h2 className="font-display text-3xl font-bold">Let&apos;s Build Something Together</h2>
         <p className="mt-4 text-lg text-gray-600 dark:text-gray-400 max-w-xl mx-auto">
-          I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious vision.
+          I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious vision.
         </p>
         <div className="mt-10 flex flex-col md:flex-row items-center justify-center gap-6">
           <a href="mailto:denel11rayhan@gmail.com" className="text-xl font-semibold hover:text-blue-500 dark:hover:text-blue-400 transition-colors">

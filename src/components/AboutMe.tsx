@@ -23,7 +23,7 @@ export const AboutMe = () => {
           <div className="max-w-xl text-center md:text-left">
             <h2 className="text-3xl font-bold font-display">About Me</h2>
             <p className="mt-6 text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
-              I'm a passionate Computer Science graduate from Universitas Indonesia, focused on building exceptional digital experiences and user-centered products.
+              I&apos;m a passionate Computer Science graduate from Universitas Indonesia, focused on building exceptional digital experiences and user-centered products.
             </p>
             <p className="mt-4 text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
               With experience in both product management and software development, I enjoy crafting solutions that are technically sound, scalable, and genuinely solve user problems.
